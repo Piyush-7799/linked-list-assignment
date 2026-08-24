@@ -1,4 +1,4 @@
-# Linked List Assignment
+nano README.md# Linked List Assignment
 
 **Name:** Piyush Kumar
 
@@ -50,8 +50,52 @@ After delete(20):
 * JavaScript
 * Node.js
 * Linked List
+
 ## Repository Structure
 
+```text
 linked-list-assignment/
+│
 ├── linkedlist.js
 └── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nano README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
