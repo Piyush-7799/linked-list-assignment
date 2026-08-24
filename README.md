@@ -50,3 +50,8 @@ After delete(20):
 * JavaScript
 * Node.js
 * Linked List
+## Repository Structure
+
+linked-list-assignment/
+├── linkedlist.js
+└── README.md
